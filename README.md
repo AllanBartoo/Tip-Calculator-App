@@ -15,7 +15,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AllanBartoo/Tip-Calculator-App
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://allanbartoo.github.io/Tip-Calculator-App
 
 ## My process
 
